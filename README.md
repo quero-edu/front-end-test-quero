@@ -84,6 +84,7 @@ A resposta da requisição irá retornar uma lista de bolsas de estudo no seguin
 * Desenvolva e versione esse projeto usando git.
 * Utilize o serviço de hospedagem de código de sua preferência: github, bitbucket, gitlab ou outro.
 * Crie um README com instruções claras sobre como executar seu projeto.
+* Suba online a sua solução do teste para um serviço. Existem vários serviços gratuitos e super fáceis para subir um site. Algumas sugestões são: Github Pages, Heroku, Now.sh e netlify. 
 
 
 ## Critérios de avaliação:
