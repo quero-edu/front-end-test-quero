@@ -53,9 +53,9 @@ As telas que você irá desenvolver estão neste link: https://drive.google.com/
 
 
 ## Dados:
-Disponibilizamos uma API de testes, onde você pode consultar a lista de cursos, fazendo uma requisição GET na seguinte url: https://testapi.io/api/redealumni/scholarships
+Disponibilizamos na raiz desse projeto um arquivo JSON chamdo `db.json` que servirá de base para consultar a lista de cursos necessárias para popular as informações da tela.
 
-A resposta da requisição irá retornar uma lista de bolsas de estudo no seguinte formato:
+A estrutuda do JSON é a seguinte:
 
     "full_price": float,
     "price_with_discount": float,
