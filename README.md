@@ -55,7 +55,7 @@ As telas que você irá desenvolver estão neste link: https://drive.google.com/
 ## Dados:
 Disponibilizamos na raiz desse projeto um arquivo JSON chamado `db.json` que servirá de base para consultar a lista de cursos necessárias para popular as informações da tela.
 
-A estrutuda do JSON é a seguinte:
+A estrutura do JSON é a seguinte:
 
     "full_price": float,
     "price_with_discount": float,
