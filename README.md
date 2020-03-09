@@ -53,7 +53,7 @@ As telas que você irá desenvolver estão neste link: https://drive.google.com/
 
 
 ## Dados:
-Disponibilizamos na raiz desse projeto um arquivo JSON chamdo `db.json` que servirá de base para consultar a lista de cursos necessárias para popular as informações da tela.
+Disponibilizamos na raiz desse projeto um arquivo JSON chamado `db.json` que servirá de base para consultar a lista de cursos necessárias para popular as informações da tela.
 
 A estrutuda do JSON é a seguinte:
 
