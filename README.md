@@ -92,6 +92,8 @@ A estrutura do JSON é a seguinte:
 * Fidelidade às funcionalidades solicitadas;
 * HTML estruturado de forma semântica;
 * Clareza de nomenclatura do CSS;
+* Seguir as melhores práticas de acessibilidade;
+* Seguir as melhores práticas de performance na web;
 * Adesão ao mobile first.
 
 
